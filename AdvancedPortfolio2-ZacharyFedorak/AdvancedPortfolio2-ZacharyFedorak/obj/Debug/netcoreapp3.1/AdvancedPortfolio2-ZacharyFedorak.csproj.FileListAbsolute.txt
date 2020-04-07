@@ -1,0 +1,11 @@
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.exe
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.deps.json
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.runtimeconfig.json
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.runtimeconfig.dev.json
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.dll
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\bin\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.pdb
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\obj\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.csprojAssemblyReference.cache
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\obj\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.AssemblyInfoInputs.cache
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\obj\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.AssemblyInfo.cs
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\obj\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.dll
+C:\Users\fedor\Desktop\programming fund\AdvancedPortfolio2-ZacharyFedorak\AdvancedPortfolio2-ZacharyFedorak\obj\Debug\netcoreapp3.1\AdvancedPortfolio2-ZacharyFedorak.pdb
